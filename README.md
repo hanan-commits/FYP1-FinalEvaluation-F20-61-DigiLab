@@ -25,3 +25,13 @@ For Measurement Based Practicals, there is no need for a timer.
 
 The PlacementController will be updated at each frame. Whenever the user will choose different objects of varying size and mass, the PlacementController will update the already rendered AR model of the object according to the new size or mass.
 
+
+How to Install:
+1. Download this project.
+2. Make a new Unity project on Unity version 2020.1.9f.
+3. Copy the contents of the assets folder from this project into your new project.
+4. Go to window -> Package Manager -> AR Foundation.
+5. Install AR Foundation and add it into the project.
+6. Connect AR compatible device with your computer (make sure that developers options for the device is enable)
+7. Go to file -> Build Settings and click on Android.
+9. Click on Build and Run
